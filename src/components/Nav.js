@@ -12,10 +12,11 @@ function Nav(){
                 <div class="collapse navbar-collapse" id="navbarNavDropdown">
                 <ul class="navbar-nav">
                     <li class="nav-item">
-                        <Link class="nav-link active" to={`calculo-tmb`}>Cálculo taxa metabolica basal</Link>
+                        <Link class="nav-link" to={`calculo-tmb`}>Cálculo taxa metabolica basal</Link>
                     </li>
+                    
                     <li class="nav-item">
-                        <Link class="nav-link active " to={`calculo-cultaneo`}>Cálculo cutâneo</Link>
+                        <Link class="nav-link" to={`calculo-cultaneo`}>Cálculo cutâneo</Link>
                     </li>
                     {/*<li class="nav-item">
                     <a class="nav-link" href="#">Pricing</a>
