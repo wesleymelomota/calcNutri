@@ -12,7 +12,7 @@ function App() {
     <div className="App d-flex flex-column">
       <Router>
         <Routes>
-          <Route path="/" element={<Home />} >
+          <Route path="/calcNutri" element={<Home />} >
             <Route index element={<Main/>}/>
             <Route path="calculo-tmb" element={<TaxaMetabolicaBasal/>}/>
             <Route path="calculo-cultaneo" element={<Cutaneo/>}/>
