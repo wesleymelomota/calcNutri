@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/calcNutri/static/css/main.6a93591f.css",
-    "main.js": "/calcNutri/static/js/main.eccdb915.js",
+    "main.js": "/calcNutri/static/js/main.454a9f34.js",
     "static/js/453.e4897177.chunk.js": "/calcNutri/static/js/453.e4897177.chunk.js",
     "index.html": "/calcNutri/index.html",
     "main.6a93591f.css.map": "/calcNutri/static/css/main.6a93591f.css.map",
-    "main.eccdb915.js.map": "/calcNutri/static/js/main.eccdb915.js.map",
+    "main.454a9f34.js.map": "/calcNutri/static/js/main.454a9f34.js.map",
     "453.e4897177.chunk.js.map": "/calcNutri/static/js/453.e4897177.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6a93591f.css",
-    "static/js/main.eccdb915.js"
+    "static/js/main.454a9f34.js"
   ]
 }
