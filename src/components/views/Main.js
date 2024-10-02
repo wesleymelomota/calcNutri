@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 
 const Main = () => {
   return (
-    <div className="main-container">
+    <div className="main-container d-flex flex-column">
       <div className="intro-section">
         <h1 className="welcome-heading">Bem-vindo à NutriCalc</h1>
         <p className="welcome-text">

@@ -110,7 +110,7 @@ function FormSlaughter(){
                     </div>
                 </form>
             </div>
-            <div className="card d-flex mt-1 efeito-vidro">
+            <div className="card d-flex mt-1 mb-1 efeito-vidro">
                     <span className="card-title titles"><h5>Resultado</h5></span>
                     <span className="mb-1 titles"><strong>Porcentagem de gordura:</strong> {resultado} %</span>
             </div>

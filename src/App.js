@@ -16,8 +16,8 @@ function App() {
             <Route index element={<Main/>}/>
             <Route path="calculo-tmb" element={<TaxaMetabolicaBasal/>}/>
             <Route path="calculo-cultaneo" element={<Cutaneo/>}/>
-            <Route path="*" element={<PageNotFound/>}/>
           </Route>
+          <Route path="*" element={<PageNotFound/>}/>
         </Routes>
       </Router>
     </div>
