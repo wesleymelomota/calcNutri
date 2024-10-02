@@ -1,5 +1,12 @@
 .App {
   text-align: center;
+  background: #093028;
+  /*background: -webkit-linear-gradient(to right, #237A57, #093028);
+  background: linear-gradient(to right, #237A57, #093028); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  
+  background: -webkit-linear-gradient(to right, #1D976C, #93F9B9);
+  background: linear-gradient(to right, #1D976C, #93F9B9); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  
 }
 
 .App-logo {
